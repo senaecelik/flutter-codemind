@@ -1,16 +1,6 @@
-# flutter_ui
+# Codemind Community UI
 
-A new Flutter project.
+ - The ui given by Figma as ready is referenced. [Login & Register Mobile UI](https://www.figma.com/community/file/981854843744172490)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/48855691/198704715-fbc75f06-308d-465d-9469-c9f3fa81c9c6.png" width="250">&nbsp;
